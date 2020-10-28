@@ -6,8 +6,8 @@
 - [Career History](#career-history)
 - [Skills](#skills)
 - [Work Experience](#work-experience)
-  - [業務委託: 2019/01 - 現在](#業務委託-201901---現在)
   - [Design 24℃: 2008/12 - 現在](#design-24-200812---現在)
+  - [業務委託: 2019/01 - 現在](#業務委託-201901---現在)
   - [GOATsystem, Corp. (Vietnam): 2008/02 - 2008/11](#goatsystem-corp-vietnam-200802---200811)
   - [ナップスタージャパン株式会社: 2005/12 - 2008/01](#ナップスタージャパン株式会社-200512---200801)
   - [株式会社ツタヤオンライン: 2003/10 - 2005/11](#株式会社ツタヤオンライン-200310---200511)
@@ -45,8 +45,8 @@
 | 2008/01    | ナップスタージャパン株式会社 退職       |
 | 2008/02    | GOATsystem, Corp. (ベトナム) 入社       |
 | 2008/11    | GOATsystem, Corp. (ベトナム) 退職       |
-| 2008/12    | Design 24℃ (フリーランス)               |
 | 2019/01    | 業務委託 (常駐/リモート)                |
+| 2008/12    | Design 24℃ (フリーランス)               |
 | 現在に至る |                                         |
 
 ## Skills
@@ -63,33 +63,6 @@
 - Docker を用いた Linux, Nginx, PHP, MySQL 環境構築
 
 ## Work Experience
-
-### 業務委託: 2019/01 - 現在
-
-#### 株式会社釣りビジョン 2019/09 - 2020/02
-
-- 実績 / 取り組み
-  - ウェブデザイナーとして自社サービスサイトのデザイン
-  - フロントエンドエンジニアとして自社サービスサイトの CMS 構築
-  - フロントエンドエンジニアとして自社サイトの更新および改修作業
-- 使用技術
-  - Backlog, Teams
-  - XD, Photoshop
-  - HTML5, CSS3, JavaScript
-  - PowerCMS
-  - Node.js, Gulp, Docker(Amazon Linux)
-  - Pug, Scss
-
-#### チームラボ株式会社 2019/02 - 2019/07
-
-- 実績 / 取り組み
-  - フロントエンドエンジニアとして自社サイトの更新および改修作業
-- 使用技術
-  - GitHub
-  - HTML5, CSS3, JavaScript
-  - 独自 CMS
-  - Node.js, Gulp, Webpack
-  - Pug, Scss
 
 ### Design 24℃: 2008/12 - 現在
 
@@ -133,6 +106,33 @@
   - テックカンファレンス、イベントなどパンフレット、リーフレット、フライヤーのデザイン
 - 使用技術
   - Illustrator, Photoshop
+
+### 業務委託: 2019/01 - 現在
+
+#### 株式会社釣りビジョン 2019/09 - 2020/02
+
+- 実績 / 取り組み
+  - ウェブデザイナーとして自社サービスサイトのデザイン
+  - フロントエンドエンジニアとして自社サービスサイトの CMS 構築
+  - フロントエンドエンジニアとして自社サイトの更新および改修作業
+- 使用技術
+  - Backlog, Teams
+  - XD, Photoshop
+  - HTML5, CSS3, JavaScript
+  - PowerCMS
+  - Node.js, Gulp, Docker(Amazon Linux)
+  - Pug, Scss
+
+#### チームラボ株式会社 2019/02 - 2019/07
+
+- 実績 / 取り組み
+  - フロントエンドエンジニアとして自社サイトの更新および改修作業
+- 使用技術
+  - GitHub
+  - HTML5, CSS3, JavaScript
+  - 独自 CMS
+  - Node.js, Gulp, Webpack
+  - Pug, Scss
 
 ### GOATsystem, Corp. (Vietnam): 2008/02 - 2008/11
 
