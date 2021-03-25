@@ -92,10 +92,10 @@
   - 開発に関する技術的な相談役
   - 課題解消へ向けた技術面での推進役
 - 使用技術
-  - GitHub, Mercurial, Subversion
+  - GitHub, Bitbucket, Mercurial, Subversion
   - HTML5, CSS3, JavaScript
   - WordPress, Movable Type, PowerCMS, EC-CUBE
-  - Node.js, Nginx, Linux, MySQL, Gulp, Webpack, Docker
+  - npm, Nginx, Linux, MySQL, Gulp, Webpack, Docker
   - Pug, Scss
 
 #### DTP デザイナーとして印刷物のデザイン 2008/12 - 現在
@@ -121,7 +121,7 @@
   - HTML5, CSS3, JavaScript
   - Movable Type, WordPress
   - Bitbucket, GitHub
-  - Node.js, Gulp
+  - npm, Gulp
   - Pug, Scss
 
 #### 株式会社釣りビジョン 2019/09 - 2020/02
@@ -136,7 +136,7 @@
   - HTML5, CSS3, JavaScript
   - PowerCMS
   - Backlog Git
-  - Node.js, Gulp, Docker(Amazon Linux)
+  - npm, Gulp, Docker(Amazon Linux)
   - Pug, Scss
 
 #### チームラボ株式会社 2019/02 - 2019/07
@@ -148,7 +148,7 @@
   - HTML5, CSS3, JavaScript
   - 独自 CMS
   - GitHub
-  - Node.js, Gulp, Webpack
+  - npm, Gulp, Webpack
   - Pug, Scss
 
 ### GOATsystem, Corp. (Vietnam): 2008/02 - 2008/11
