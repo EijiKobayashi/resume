@@ -45,8 +45,8 @@
 | 2008/01    | ナップスタージャパン株式会社 退職       |
 | 2008/02    | GOATsystem, Corp. (ベトナム) 入社       |
 | 2008/11    | GOATsystem, Corp. (ベトナム) 退職       |
-| 2019/01    | 業務委託 (常駐/リモート)                |
 | 2008/12    | Design 24℃ (フリーランス)               |
+| 2019/01    | 業務委託 (常駐/リモート)                |
 | 現在に至る |                                         |
 
 ## Skills
@@ -109,6 +109,21 @@
 
 ### 業務委託: 2019/01 - 現在
 
+#### 株式会社デジタルアイデンティティ 2020/12 - 現在
+
+- 実績 / 取り組み
+  - フロントエンドエンジニアとして受託案件の CMS 構築
+  - フロントエンドエンジニアとして受託案件のコーディング作業
+  - フロントエンドエンジニアとして受託案件の更新および改修作業
+- 使用技術
+  - Backlog, Chatwork, Zoom, Google meet
+  - XD, Photoshop
+  - HTML5, CSS3, JavaScript
+  - Movable Type, WordPress
+  - Bitbucket, GitHub
+  - Node.js, Gulp
+  - Pug, Scss
+
 #### 株式会社釣りビジョン 2019/09 - 2020/02
 
 - 実績 / 取り組み
@@ -120,6 +135,7 @@
   - XD, Photoshop
   - HTML5, CSS3, JavaScript
   - PowerCMS
+  - Backlog Git
   - Node.js, Gulp, Docker(Amazon Linux)
   - Pug, Scss
 
@@ -131,6 +147,7 @@
   - GitHub
   - HTML5, CSS3, JavaScript
   - 独自 CMS
+  - GitHub
   - Node.js, Gulp, Webpack
   - Pug, Scss
 
