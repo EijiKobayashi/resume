@@ -2,28 +2,36 @@
 
 ## Index
 
-- [Personal Data](#personal-data)
-- [Career History](#career-history)
-- [Skills](#skills)
-- [Work Experience](#work-experience)
-  - [Design 24℃: 2008/12 - 現在](#design-24-200812---現在)
-  - [業務委託: 2019/01 - 現在](#業務委託-201901---現在)
-  - [GOATsystem, Corp. (Vietnam): 2008/02 - 2008/11](#goatsystem-corp-vietnam-200802---200811)
-  - [ナップスタージャパン株式会社: 2005/12 - 2008/01](#ナップスタージャパン株式会社-200512---200801)
-  - [株式会社ツタヤオンライン: 2003/10 - 2005/11](#株式会社ツタヤオンライン-200310---200511)
-  - [日本エンタープライズ株式会社: 2002/10 - 2003/10](#日本エンタープライズ株式会社-200210---200310)
-  - [マイクロソフト株式会社: 2002/05 - 2002/07](#マイクロソフト株式会社-200205---200207)
-- [PR](#pr)
+- [CV / Resume](#cv--resume)
+  - [Index](#index)
+  - [Personal Data](#personal-data)
+  - [Career History](#career-history)
+  - [Skills](#skills)
+  - [Work Experience](#work-experience)
+    - [Oshinco Corp.: 2008/12 - 現在](#oshinco-corp-200812---現在)
+      - [ウェブアーキテクトとしてウェブ構築のディレクション 2008/12 - 現在](#ウェブアーキテクトとしてウェブ構築のディレクション-200812---現在)
+      - [ウェブデザイナーとしてウェブサイトのデザイン 2008/12 - 現在](#ウェブデザイナーとしてウェブサイトのデザイン-200812---現在)
+      - [フロントエンドエンジニアとしてウェブサイトの構築 2008/12 - 現在](#フロントエンドエンジニアとしてウェブサイトの構築-200812---現在)
+      - [DTP デザイナーとして印刷物のデザイン 2008/12 - 現在](#dtp-デザイナーとして印刷物のデザイン-200812---現在)
+    - [業務委託: 2019/01 - 現在](#業務委託-201901---現在)
+      - [株式会社デジタルアイデンティティ 2020/12 - 現在](#株式会社デジタルアイデンティティ-202012---現在)
+      - [株式会社釣りビジョン 2019/09 - 2020/02](#株式会社釣りビジョン-201909---202002)
+      - [チームラボ株式会社 2019/02 - 2019/07](#チームラボ株式会社-201902---201907)
+    - [GOATsystem, Corp. (Vietnam): 2008/02 - 2008/11](#goatsystem-corp-vietnam-200802---200811)
+    - [ナップスタージャパン株式会社: 2005/12 - 2008/01](#ナップスタージャパン株式会社-200512---200801)
+    - [株式会社ツタヤオンライン: 2003/10 - 2005/11](#株式会社ツタヤオンライン-200310---200511)
+    - [日本エンタープライズ株式会社: 2002/10 - 2003/10](#日本エンタープライズ株式会社-200210---200310)
+    - [マイクロソフト株式会社: 2002/05 - 2002/07](#マイクロソフト株式会社-200205---200207)
+  - [PR](#pr)
 
 ## Personal Data
 
 | key      | value                                |
 | -------- | ------------------------------------ |
 | Name     | 小林 英治 (Eiji Kobayashi)           |
-| Blog     | <https://www.ekkun.com>              |
-| Mail     | eiji@ekkun.com                       |
+| Web      | <https://oshinco.com>                |
+| Mail     | e@oshinco.com                        |
 | Twitter  | <https://twitter.com/ekkun>          |
-| Facebook | <https://www.facebook.com/ekkun>     |
 | Linkedin | <https://www.linkedin.com/in/ekkun/> |
 | TOEIC    | 500                                  |
 
@@ -45,7 +53,7 @@
 | 2008/01    | ナップスタージャパン株式会社 退職       |
 | 2008/02    | GOATsystem, Corp. (ベトナム) 入社       |
 | 2008/11    | GOATsystem, Corp. (ベトナム) 退職       |
-| 2008/12    | Design 24℃ (フリーランス)               |
+| 2008/12    | Oshinco Corp. (フリーランス)            |
 | 2019/01    | 業務委託 (常駐/リモート)                |
 | 現在に至る |                                         |
 
@@ -59,12 +67,12 @@
 - HTML5, CSS3, ES2015+ による Web フロントエンドの開発
 - Wordpress, Movable Type などの OSS CMS を用いたウェブサイトの構築
 - React, Vue.js などの JavaScript のフレームワークを利用した Web アプリケーションの開発
-- Webpack, Gulp などのビルドタスクツール活用
+- Vite, Webpack, Gulp などのビルドタスクツール活用
 - Docker を用いた Linux, Nginx, PHP, MySQL 環境構築 [詳しくはこちら](https://github.com/EijiKobayashi)
 
 ## Work Experience
 
-### Design 24℃: 2008/12 - 現在
+### Oshinco Corp.: 2008/12 - 現在
 
 #### ウェブアーキテクトとしてウェブ構築のディレクション 2008/12 - 現在
 
@@ -95,8 +103,8 @@
   - GitHub, Bitbucket, Mercurial, Subversion
   - HTML5, CSS3, JavaScript
   - WordPress, Movable Type, PowerCMS, EC-CUBE
-  - npm, Nginx, Linux, MySQL, Gulp, Webpack, Docker
-  - Pug, Scss
+  - npm, Yarn, Nginx, Linux, MySQL, Vite, Gulp, Webpack, Docker
+  - Pug, EJS, Scss, ES2015(ES6)
 
 #### DTP デザイナーとして印刷物のデザイン 2008/12 - 現在
 
@@ -117,12 +125,12 @@
   - フロントエンドエンジニアとして受託案件の更新および改修作業
 - 使用技術
   - Backlog, Chatwork, Zoom, Google meet
-  - XD, Photoshop
-  - HTML5, CSS3, JavaScript
-  - Movable Type, WordPress
+  - XD, Photoshop,
   - Bitbucket, GitHub
-  - npm, Gulp
-  - Pug, Scss
+  - HTML5, CSS3, JavaScript
+  - WordPress, Movable Type, PowerCMS, EC-CUBE
+  - npm, Yarn, Nginx, Linux, MySQL, Vite, Gulp, Webpack, Docker
+  - Pug, EJS, Scss, ES2015(ES6)
 
 #### 株式会社釣りビジョン 2019/09 - 2020/02
 
@@ -179,5 +187,5 @@
 
 ## PR
 
-実績約 10 年以上、フリーランスのウェブアーキテクトとして活動中。  
+実績約 15 年以上、フリーランスのウェブアーキテクトとして活動中。  
 以上！
